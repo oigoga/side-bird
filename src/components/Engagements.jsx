@@ -1,5 +1,5 @@
 import React from "react";
-import { Likes, Views, Clicks } from "../assets";
+import { Likes, Views, Clicks, } from "../assets";
 
 const Engagements = () => {
   return (
